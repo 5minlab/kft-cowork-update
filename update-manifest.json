@@ -1,14 +1,14 @@
 {
-  "version": "0.2.9",
+  "version": "0.2.10",
   "releasePageUrl": "https://github.com/5minlab/kft-cowork-update",
   "releaseNotesUrl": "https://github.com/5minlab/kft-cowork-update/blob/main/README.md",
   "downloads": {
     "darwin": {
-      "arm64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork-0.2.9-arm64.dmg",
-      "x64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork-0.2.9-x64.dmg"
+      "arm64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork-0.2.10-arm64.dmg",
+      "x64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork-0.2.10-x64.dmg"
     },
     "win32": {
-      "x64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork%20Setup%200.2.9.exe"
+      "x64": "https://github.com/5minlab/kft-cowork-update/raw/refs/heads/main/releases/KFT%20Cowork%20Setup%200.2.10.exe"
     }
   }
 }
